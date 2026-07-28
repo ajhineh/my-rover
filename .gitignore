@@ -1,0 +1,12 @@
+# Build outputs & temporary files
+.pio/
+.vscode/
+.idea/
+*.o
+*.elf
+*.bin
+*.hex
+*.out
+*.log
+.DS_Store
+Thumbs.db
